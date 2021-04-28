@@ -51,7 +51,7 @@ Right now, liquidity pools are isolated and use few logic commands to speak to e
 
 2.	Interconnected
  
-     Implementing Interconnected Liquidity Pools will allow dynamic logic use cases across the DEX market. As pools become interconnected liquidity can rapidly and cheaply move into different assets. Moving liquidity between a vast amount of assets across a wide range of connections can allow more arbitrage across protocols. 
+     Implementing Interconnected Liquidity Pools will allow dynamic logic use cases across the DEX market. As pools become interconnected,  liquidity can rapidly and cheaply move into different assets. Moving liquidity between a vast amount of assets across a wide range of connections can allow more arbitrage across protocols. 
 
 ![image](https://user-images.githubusercontent.com/69151655/116327654-e4c04d00-a78c-11eb-94f6-45ea08900b7f.png)
 
