@@ -74,8 +74,7 @@ Users can set preferences for automated market making positions within smart con
 
 
 Users will now have the ability to govern an automated ecosystem of assets based on their own intuition of the market. This introduces a new concept of Asset Management pods that allow arbitrage strategies. Liquidity Pools benefit from being in on-chain Asset Management pods because it reduce losses even in assets that decrease in value. An example would be in AMPs that move value around in between low correlated and high correlated AMPs. If you know AMP A will go down in value every time AMP B goes up in value. The experienced user can train his Automated Logic Algorithms to adjust to selling and buying pressure in the overall market now. 
-			Asset Management Pods with Interconnected User AMM Logic Liquidity Pools
-
+			
 
 ![image](https://user-images.githubusercontent.com/69151655/116327732-0cafb080-a78d-11eb-93f4-e2ceadc2280d.png)
 
